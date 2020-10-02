@@ -1,2 +1,2 @@
 # hello-world
-Primiero repositorio que eu criei para aprender git
+Primeiro repositorio que eu criei para aprender git
